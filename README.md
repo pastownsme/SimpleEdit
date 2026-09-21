@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://pastownsme.github.io/simple-edit/](https://pastownsme.github.io/SimpleEdit/Simple%20Edit%201.0/)"><strong>🚀 Live Demo</strong></a>
+  <a href="https://pastownsme.github.io/SimpleEdit/"><strong>🚀 Live Demo</strong></a>
 </p>
 
 <p align="center">
